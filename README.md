@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working as web/mobile developer<br>I’m looking for help with becoming better at problem solving and algorithms<br>I’m currently learning Python and Java<br>You can ask me about anything and try to help you<br>Fun fact: watch anime and listening music<br>
+I’m currently working as web/mobile developer<br>I’m looking for help with becoming better at problem solving and algorithms<br>I’m currently learning Python and Kotlin<br>You can ask me about anything and try to help you<br>Fun fact: watch anime and listening music<br>
 
 
 ## 🌐 Socials:
